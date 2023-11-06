@@ -1,0 +1,21 @@
+Was it easy to find your classmates assignment?
+
+'It was very easy to find my classmate's assignment. All I needed was to find and click his repo'
+
+Was their documentation clear and concise on what their program was designed to do?
+
+Yes, their documentation was clear and concise on what their program does.
+
+Was their documnetion clear and concise on how to install their program?
+
+No. There was no installment process instructions.
+
+When you installed and ran your classmates program, did it work as described?
+
+No. The program did not work as intended. No matter if I type 'yes' and 'no', I still get the same result.
+Based on your experience using your classmate's program, as well as what you've learned about programming and documentation, 
+are there any reccomendations that you would provide to your classmate?
+
+I would suggest that they remove the booleans they added next to the if/else/elif statements,
+as I may be the reason for why it outputs two results of both if/else statements
+no matter my answer of 'yes' and 'no'
